@@ -1,0 +1,6 @@
+# ignorar arquivos de ambiente
+*.env
+
+# Distribution / packaging
+lib/
+Scripts/
